@@ -2,9 +2,10 @@
 
 ## 基础数据结构：
 
-![image-20200825135638735](C:\Users\lidxk\AppData\Roaming\Typora\typora-user-images\image-20200825135638735.png)
+！[image-20200825135638735] （C：\ Users \ lidxk \ AppData \ Roaming \ Typora \ typora-user-images \ image-20200825135638735.png）
 
-stack：堆栈
+体积：体积
+
 
 Queue：队列
 
