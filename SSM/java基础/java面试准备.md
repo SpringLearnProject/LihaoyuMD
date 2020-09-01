@@ -2,13 +2,13 @@
 
 ## 基础数据结构：
 
-![image-20200825135638735](C:\Users\lidxk\AppData\Roaming\Typora\typora-user-images\image-20200825135638735.png)
+![image-20200825135638735](Java面试准备图片\image-20200825135638735.png)
 
 stack：堆栈
 
 Queue：队列
 
-![image-20200825135835842](C:\Users\lidxk\AppData\Roaming\Typora\typora-user-images\image-20200825135835842.png)
+![image-20200825135835842](Java面试准备图片\image-20200825135835842.png)
 
 
 
@@ -35,11 +35,11 @@ set：（int index,Object obj）:将集合中指定索引位置的对象修改�
 
 ### Collection
 
-![image-20200825141031848](C:\Users\lidxk\AppData\Roaming\Typora\typora-user-images\image-20200825141031848.png)
+![image-20200825141031848](Java面试准备图片\image-20200825141031848.png)
 
 ### List
 
-![image-20200825155403649](C:\Users\lidxk\AppData\Roaming\Typora\typora-user-images\image-20200825155403649.png)
+![image-20200825155403649](Java面试准备图片\image-20200825155403649.png)
 
 
 
@@ -53,9 +53,9 @@ TreeSet：不光实现Set接口，还实现了java.util.SortedSet接口，可以
 
 map没有继承Collection接口，其提供的是Key和Value的关系映射，key不相同且只能映射一个value,
 
-![image-20200901185720347](C:\Users\lidxk\AppData\Roaming\Typora\typora-user-images\image-20200901185720347.png)
+![image-20200901185720347](Java面试准备图片\image-20200901185720347.png)
 
-![image-20200901190258646](C:\Users\lidxk\AppData\Roaming\Typora\typora-user-images\image-20200901190258646.png)
+![image-20200901190258646](Java面试准备图片\image-20200901190258646.png)
 
 
 
